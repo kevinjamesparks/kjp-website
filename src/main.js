@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Counter from './Counter';
+import counter from './counter';
  
 document.addEventListener('DOMContentLoaded', function() {
   ReactDOM.render(
