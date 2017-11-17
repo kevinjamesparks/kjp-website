@@ -8,9 +8,9 @@ Explore my visions, get the ambitious and curious person that I am.
 
 Setup
 ---
-'''
+```
 npm install
-'''
+```
 
 Compile
 ---
